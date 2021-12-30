@@ -41,3 +41,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sarfarazinfotech&show_icons=true&locale=en" alt="sarfarazinfotech" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sarfarazinfotech&" alt="sarfarazinfotech" /></p>
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+<div class="badge-base li-profile-badge" data-locale="en_us" data-size="medium" data-theme="light" data-type="vertical" data-vanity="sarfarazinfotech" data-version="v1"><a class="badge-base__link li-simple-link" href="https://in.linkedin.com/in/sarfarazinfotech?trk=profile-badge">sarfaraz khan</a></div>
